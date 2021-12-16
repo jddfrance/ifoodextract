@@ -22,7 +22,6 @@ userRatingCount Heatmap
 ![map](https://user-images.githubusercontent.com/95101367/146432272-00efbce5-d73f-44e3-9f41-3a12fd4120dd.png)
 
 ### Barplot generated
-From the graph below we can take a look at the distribution of restaraunts vs User Reviews by price range, at least on a first look there doesn't seem to be a correlation between higher number of reviews and price range, at least determined by price range. Another takeaway we see here is the high number of restaurants on the low end of reviews, which can indicate the hardships the Ifood platform presents to it's commercial users.
 
 ![image](https://user-images.githubusercontent.com/95101367/146433477-bbc92ea5-cb75-45e2-936b-bfc6e524bc48.png)
 
@@ -31,6 +30,9 @@ From the graph below we can take a look at the distribution of restaraunts vs Us
 From the maps we can see the zones where there's a heavier quantity of user reviews, given by the variable userRatingCount. We can also somehow induce that a higher number of reviews indicates a higher number of revenue and high competition zones are identified in the heatmap with red. An interesting fact is that the biggest restaurant in the city on the Ifood platform is Geek Burger, with around 1800 reviews, which is located on the bottom left part of the map, a zone that has less competition than others. 
 
 Something to note is that, because of the geographic center, some restaurants may be left out of the search, further testing is necessary, but it's still interesting how the comercial center of the capital has less competition than the neighbor city, Ananindeua.
+
+From the bar graph, we can take a look at the distribution of restaraunts vs User Reviews by price range, at least on a first look there doesn't seem to be a correlation between higher number of reviews and price range, at least determined by price range. Another takeaway we see here is the high number of restaurants on the low end of reviews, which can indicate the hardships the Ifood platform presents to it's commercial users.
+
 
 ## Notes
 Because of how many restaurant there are, the script takes some time to find, clean and organize the data, for every 3000 restaurants it finds it takes around 9 minutes to run every execution (measured on Collaboratory).
