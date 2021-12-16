@@ -1,6 +1,7 @@
 # Ifood API extractor based on latitude and longitude
 ## Summary 
-This is a script to extract data from the Ifood API. Instead of downloading locally you can also go [here](https://colab.research.google.com/github/jddfrance/ifoodextract/blob/main/ifood_extract_0.1.ipynb) to execute the script directly.
+This is a script to extract data from the Ifood API and derive some maps and graphs from the data obtained. 
+
 
 This work is still in progress.
 
