@@ -31,7 +31,7 @@ From the maps we can see the zones where there's a heavier quantity of user revi
 
 Something to note is that, because of the geographic center, some restaurants may be left out of the search, further testing is necessary, but it's still interesting how the comercial center of the capital has less competition than the neighbor city, Ananindeua.
 
-From the bar graph, we can take a look at the distribution of restaraunts vs User Reviews by price range, at least on a first look there doesn't seem to be a correlation between higher number of reviews and price range, at least determined by price range. Another takeaway we see here is the high number of restaurants on the low end of reviews, which can indicate the hardships the Ifood platform presents to it's commercial users.
+From the bar graph, we can take a look at the distribution of restaraunts vs User Reviews by price range, organized by top reviewed restaurants, at least on a first look there doesn't seem to be a correlation between higher number of reviews and price range, at least determined by price range. Another takeaway we see here is the high number of restaurants on the low end of reviews, which can indicate the hardships the Ifood platform presents to it's commercial users.
 
 
 ## Notes
