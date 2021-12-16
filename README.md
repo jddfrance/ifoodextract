@@ -6,7 +6,7 @@ This is a script to extract data from the Ifood API and derive some maps and gra
 This work is still in progress.
 
 ## How to use
-Simply put the latitude and longitude on the function get_rest like the example (pages is optional):
+Simply put the latitude and longitude on the function get_rest like the example (pages is optional, if it's not given it'll just take all restaurants in the area):
 ![image](https://user-images.githubusercontent.com/95101367/143783521-376ce827-dd57-4ce5-b05f-4271d9e20904.png)
 
 Obs.: Each page has 300 restaurants when searching at max.
